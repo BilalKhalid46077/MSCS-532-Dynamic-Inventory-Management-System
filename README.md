@@ -106,7 +106,7 @@ collections
 Download or clone the repository.
 
 ```
-git clone 
+git clone https://github.com/BilalKhalid46077/MSCS-532-Dynamic-Inventory-Management-System.git
 ```
 ---
 
@@ -212,13 +212,6 @@ This proof of concept can be extended by adding several advanced features, inclu
 
 ---
 
-## GitHub Repository
-
-GitHub Repository:
-
-
-
----
 
 ## Author
 
